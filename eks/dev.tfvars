@@ -1,5 +1,5 @@
 env                   = "dev"
-aws-region            = "ap-south-1"
+aws-region            = "us-east-2" #Ohio
 vpc-cidr-block        = "10.0.0.0/16"
 vpc-name              = "vpc"
 igw-name              = "igw"
